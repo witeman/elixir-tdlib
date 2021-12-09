@@ -51,6 +51,7 @@ config :telegram_tdlib, backend_binary: "/path/to/my/binary"
 
 # Usage / Example
 
+Long Time No UPDATE!
 A simple example can be found at
 [gitlab.com/Fnux/elixir-tdlib-demo](https://gitlab.com/Fnux/elixir-tdlib-demo).
 Please refer to the `TDLib` module for proper documentation.
